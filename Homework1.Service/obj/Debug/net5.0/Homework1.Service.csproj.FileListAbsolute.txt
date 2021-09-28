@@ -1,0 +1,15 @@
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/bin/Debug/net5.0/Homework1.Service.deps.json
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/bin/Debug/net5.0/Homework1.Service.dll
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/bin/Debug/net5.0/ref/Homework1.Service.dll
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/bin/Debug/net5.0/Homework1.Service.pdb
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/bin/Debug/net5.0/Homework1.Core.dll
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/bin/Debug/net5.0/Homework1.Core.pdb
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/Homework1.Service.csproj.AssemblyReference.cache
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/Homework1.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/Homework1.Service.AssemblyInfoInputs.cache
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/Homework1.Service.AssemblyInfo.cs
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/Homework1.Service.csproj.CoreCompileInputs.cache
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/Homework1.Service.csproj.CopyComplete
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/Homework1.Service.dll
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/ref/Homework1.Service.dll
+/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/Debug/net5.0/Homework1.Service.pdb

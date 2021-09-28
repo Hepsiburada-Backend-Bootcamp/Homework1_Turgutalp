@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Homework1.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Homework1.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Homework1.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework1.Core/1.0.0": {
+      "type": "project",
+      "path": "../Homework1.Core/Homework1.Core.csproj",
+      "msbuildProject": "../Homework1.Core/Homework1.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Homework1.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/turgutalptug/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/Homework1.Service.csproj",
+      "projectName": "Homework1.Service",
+      "projectPath": "/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/Homework1.Service.csproj",
+      "packagesPath": "/Users/turgutalptug/.nuget/packages/",
+      "outputPath": "/Users/turgutalptug/RiderProjects/Homework1/Homework1.Service/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/turgutalptug/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/turgutalptug/RiderProjects/Homework1/Homework1.Core/Homework1.Core.csproj": {
+              "projectPath": "/Users/turgutalptug/RiderProjects/Homework1/Homework1.Core/Homework1.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

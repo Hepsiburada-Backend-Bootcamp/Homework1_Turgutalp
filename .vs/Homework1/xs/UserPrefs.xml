@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9078E10A-5BD0-4B8F-ACF9-8C523B73D817}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework1.Service/Services/Service.cs">
+    <Files>
+      <File FileName="Homework1.Service/Services/Service.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework1" expanded="True">
+            <Node name="Homework1.Service" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Service.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework1.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
